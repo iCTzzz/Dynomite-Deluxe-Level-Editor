@@ -1,0 +1,25 @@
+Exception: Access Violation (code 0xc0000005) at address 00403290 in thread F8C
+Module: dynedit.exe
+Logical Address: 0001:00002290
+
+0046E8E0 00403290 0001:00002290 dynedit.exe
+Params: 03020100 07060504 0B0A0908 0F0E0D0C
+
+StackWalk failed (error 299)
+
+EAX:00000000 EBX:00000000 ECX:024A0250 EDX:0000000A ESI:024AFB24 EDI:00000002
+EIP:00403290 ESP:0019FA7C  EBP:0046E8E0
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00210216
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: Dynomite Editor
+Version: 1.0
+Time Loaded: 00:00:33
+Times Played: 0
+Fullscreen: No
+Primary ThreadId: F8C
+
